@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ji0326
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ingjis)](https://solved.ac/ingjis/)
 
-<!---
-ji0326/ji0326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mseo39)](https://github.com/ji0326/github-readme-stats)
