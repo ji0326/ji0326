@@ -2,4 +2,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mseo39)](https://github.com/ji0326/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji0326)](https://github.com/ji0326/github-readme-stats)
